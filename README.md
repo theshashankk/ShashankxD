@@ -4,6 +4,6 @@
 
 # U CAN FOUND ME ON TELEGRAM 
 
-[![Shashank](https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge)](t.me/ShashankxD)
+[![Telegram](https://img.shields.io/badge/-xD-0078D4?style=flat&logo=Shashank-telegram&logoColor=white)](https://t.me/Shashank_xD)
 
 # TEAM ZYPHER 🔰
