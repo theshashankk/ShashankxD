@@ -8,7 +8,7 @@ setuptools.setup(
     name="ShashankxD",
  
     #version of the module
-    version="0.0.2",
+    version="0.0.3",
  
     #Name of Author
     author="ShashankxD",
